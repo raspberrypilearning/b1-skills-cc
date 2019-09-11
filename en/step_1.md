@@ -12,7 +12,7 @@ Click on the green flag to begin to find out about a specific person with a care
 
 Click on the 'Click me' button to try the next project:
 
-<a href="https://codeclub.org/en/scratch1">
+<a href="https://codeclub.org/en/b1">
 <img src="images/Clickme.png">
 
 
